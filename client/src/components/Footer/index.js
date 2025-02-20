@@ -14,25 +14,19 @@ const Footer = () => {
         <Navbar className="justify-content-center footerText">
           <Nav>
             <Nav.Item>
-              <Nav.Link target="_blank" href="https://github.com/michelletrn/">
-                Michelle
+              <Nav.Link target="_blank">
+                Mahendra
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link target="_blank" href="https://github.com/peterlim995">
-                Peter
+              <Nav.Link target="_blank" >
+                Rohith
               </Nav.Link>
             </Nav.Item>
             <Nav.Item>
-              <Nav.Link target="_blank" href="https://github.com/inputName-jy">
-                Justin
+              <Nav.Link target="_blank">
+                Harish
               </Nav.Link>
-            </Nav.Item>
-            <Nav.Item>
-              <Nav.Link target="_blank" href="https://github.com/ThomasJay44">
-                Thomas
-              </Nav.Link>
-            </Nav.Item>
           </Nav>
         </Navbar>
       </Col>
